@@ -1,2 +1,0 @@
-# TSA
-Twitter Sentimental Analysis
